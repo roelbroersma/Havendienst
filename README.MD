@@ -1,7 +1,10 @@
 This is the [Havendienst.nl](https://havendienst.nl) platform. It features three main areas:
-1. Boat rental/booking (for customers and vendors)
-2. Boat Assistance (Pechhulp)
-3. Watertaxi
+**1. Boat rental/booking (for customers and vendors)
+**2. Boat Assistance (Pechhulp)
+**3. Watertaxi
+
+
+
 
 This project will also include general documentation, merchandise and other stuff in the merchandise folder. This may include: flags, stickers, flyers, etc..
 
