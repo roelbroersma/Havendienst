@@ -1,6 +1,9 @@
 This is the [Havendienst.nl](https://havendienst.nl) platform. It features three main areas:
+
 **1. Boat rental/booking (for customers and vendors)**
+
 **2. Boat Assistance (Pechhulp)**
+
 **3. Watertaxi**
 
 
