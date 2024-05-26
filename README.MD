@@ -7,8 +7,6 @@ Welcome to the Havendienst.nl platform. Our focus areas include:
 2. **Boat Assistance** (Pechhulp)
 3. **Watertaxi**
 
-This project also includes general documentation, merchandise, and other materials in the merchandise folder. This may include flags, stickers, flyers, etc.
-
 ## 📖 Table of Contents
 
 - [Boat Rental/Booking](#-boat-rentalbooking)
