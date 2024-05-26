@@ -33,7 +33,7 @@ Bugs, feature requests, and other issues about the platform can be made through 
 
 Boat assistance is available at [Havendienst.nl/Pechhulp](https://www.havendienst.nl/pechhulp) and is used by people who are currently having trouble with their boat and are on (the middle of) the water. After a request has been made, this request will be sent in a WhatsApp group of local volunteers. A volunteer may help after they reply (so other volunteers know someone is going to give assistance). The volunteer gets 100% of the money, prices are always fixed.
 
-![Assistance Screenshot]/roelbroersma/Havendienst/docs/screenshots/pechhulp_screenshot.png
+![Assistance Screenshot]https://github.com/roelbroersma/Havendienst/blob/main/docs/screenshots/pechhulp_screenshot.png?raw=true
 
 ## 🚖 Watertaxi
 
