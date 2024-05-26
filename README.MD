@@ -5,8 +5,7 @@ This is the [Havendienst.nl](https://havendienst.nl) platform. It features three
 
 This project will also include general documentation, merchandise and other stuff in the merchandise folder. This may include: flags, stickers, flyers, etc..
 
-1.
-The booking platform is based on open-source code: Wordpress, Woocommerce Bookings, Woocommerce Deposits, Woocommerce Vendors and WCFM + WCFM Ultimate.
+1. The booking platform is based on open-source code: Wordpress, Woocommerce Bookings, Woocommerce Deposits, Woocommerce Vendors and WCFM + WCFM Ultimate.
 We use several custom made plugins like: "Per Prododuct Google Calendar Sync" and "Per vendor Stripe keys".
 
 Bugs, Feature Requests and other issues about the platform can be made through the [Issues](https://github.com/roelbroersma/Havendienst/issues) button.
