@@ -21,6 +21,8 @@ This project also includes general documentation, merchandise, and other materia
 
 ## 🚤 Boat Rental/Booking
 
+The booking platform is available at [Havendienst.nl](https://havendienst.nl) or [Havendienst.nl/Huren](https://havendienst.nl/huren), if you want to rent out, you can fill in the vendor application [here](https://havendienst.nl/over/#verhuren).
+
 The booking platform is based on open-source code: WordPress, WooCommerce Bookings, WooCommerce Deposits, WooCommerce Vendors, and WCFM + WCFM Ultimate. We use several custom-made plugins like:
 - "Per Product Google Calendar Sync"
 - "Per Vendor Stripe Keys"
@@ -36,7 +38,7 @@ Boat assistance is available at [Havendienst.nl/Pechhulp](https://www.havendiens
 
 ## 🚖 Watertaxi
 
-The watertaxi should be booked 2 days or more in advance.
+The watertaxi should be booked 2 days or more in advance and is available at [Havendienst.nl/taxi](https://havendienst.nl/taxi)
 
 ![Watertaxi Screenshot](https://github.com/roelbroersma/Havendienst/blob/main/docs/screenshots/watertaxi_screenshot.png?raw=true)
 
@@ -55,7 +57,7 @@ We welcome contributions to this project. Feel free to submit pull requests for 
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](path/to/LICENSE) file for more details.
+This project is licensed under the MIT License.
 
 ---
 
