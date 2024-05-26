@@ -27,7 +27,6 @@ The booking platform is based on open-source code: WordPress, WooCommerce Bookin
 
 Bugs, feature requests, and other issues about the platform can be made through the [Issues](https://github.com/roelbroersma/Havendienst/issues) button.
 
-![Booking Screenshot](path/to/booking_screenshot.png)
 
 ## 🆘 Boat Assistance (Pechhulp)
 
@@ -39,13 +38,12 @@ Boat assistance is available at [Havendienst.nl/Pechhulp](https://www.havendiens
 
 The watertaxi should be booked 2 days or more in advance.
 
-![Watertaxi Screenshot](path/to/watertaxi_screenshot.png)
+![Watertaxi Screenshot](https://github.com/roelbroersma/Havendienst/blob/main/docs/screenshots/watertaxi_screenshot.png?raw=true)
 
 ## 🛍️ Merchandise
 
 This folder includes general documentation, merchandise, and other materials such as flags, stickers, flyers, etc.
 
-![Merchandise Example](path/to/merchandise_example.png)
 
 ## 🖥️ Code Snippets
 
